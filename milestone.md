@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "じョジョ　人类勇气的赞歌 "
+description: "ジョジョ　人类勇气的赞歌 "
 header-img: "img/zhihu.jpg"
 ---
 
