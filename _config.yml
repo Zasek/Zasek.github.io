@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  NULL
+douban_username:  
 twitter_username: Ja3e010
 github_username: Zasek
 facebook_username: 
 weibo_username: 杂色k
-zhihu_username: 张桢桢
+zhihu_username: zhang-zhen-zhen-42
 
 # Build settings  
 # use Github Flavored Markdown !important  
