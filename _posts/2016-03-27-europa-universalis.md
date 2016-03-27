@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最近游戏玩多了
-date: 2016-02-28
+date: 2016-03-27
 categories: blog
 tags: [游戏]
 description: 游戏玩多了以后想了很多
