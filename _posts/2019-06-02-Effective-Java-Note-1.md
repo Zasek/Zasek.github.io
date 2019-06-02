@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective Java阅读笔记
+title: Effective Java阅读笔记(一)
 date: 2019-06-02
 categories: blog
 tags: [Java笔记]
